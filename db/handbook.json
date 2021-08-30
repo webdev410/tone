@@ -1,0 +1,23 @@
+[
+    {
+        "type": "menu",
+        "parent": "main",
+        "name": "Vocal Mics"
+    },
+    {
+        "type": "menu",
+        "parent": "Vocals",
+        "name": "Vocal Mics"
+    },
+    {
+        "type": "menu",
+        "parent": "Vocal Mics",
+        "name": "Dynamic"
+    },
+    {
+        "type": "menu",
+        "parent": "Vocal Mics",
+        "name": "Condensor"
+    }
+   
+]

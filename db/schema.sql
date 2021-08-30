@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS tone_db;
+
+CREATE DATABASE tone_db;
+
+USE tone_db;

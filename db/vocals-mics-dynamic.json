@@ -1,0 +1,42 @@
+[
+    {
+        "type": "microphone",
+        "sub_type": "dynamic",
+        "manufacturer": "Shure",
+        "model": "SM58",
+        "price": 99.99,
+        "fact": "This is the most popular mic of all time and is a great value for the money. Can’t beat this mic for the money.",
+        "image": "/images/vocal-mics/dynamic/sm58.png",
+        "asin": "B000CZ0R42"
+    },
+    {
+        "type": "microphone",
+        "sub_type": "dynamic",
+        "manufacturer": "Shure",
+        "model": "Beta 58a",
+        "price": 129,
+        "fact": "A brighter version of the SM58. This has an EQ curve built-in just for vocals.",
+        "image": "/images/vocal-mics/dynamic/beta58.png",
+        "asin": "B0002BACB4"
+    },
+    {
+        "type": "microphone",
+        "sub_type": "dynamic",
+        "manufacturer": "Shure",
+        "model": "SM7b",
+        "price": 399,
+        "fact": "The most popular studio vocal microphone. This is the “go-to” microphone in many professional studios.",
+        "image": "/images/vocal-mics/dynamic/sm7b.png",
+        "asin": "B0002E4Z8M"
+    },
+    {
+        "type": "microphone",
+        "sub_type": "dynamic",
+        "manufacturer": "Electro-Voice",
+        "model": "RE20",
+        "price": 449,
+        "fact": "A great alternative to the SM7b with a different flavor. Also great on kick drums.",
+        "image": "/images/vocal-mics/dynamic/re20.png",
+        "asin": "B00U1S4YY4"
+    }
+]

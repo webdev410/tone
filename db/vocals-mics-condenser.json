@@ -1,0 +1,22 @@
+[
+    {
+        "type": "microphone",
+        "sub_type": "condensor",
+        "manufacturer": "Behringer",
+        "model": "B-1",
+        "price": 89,
+        "fact": "Behringer is on a mission to create affordable clones of legondary gear. Here is their clone of the Neumann U87",
+        "image": "images/vocal-mics/condenser/b1.png",
+        "asin": "B0002KZAK8"
+    },
+    {
+        "type": "microphone",
+        "sub_type": "condensor",
+        "manufacturer": "Blue",
+        "model": "Spark SL",
+        "price": 199,
+        "fact": "",
+        "image": "images/vocal-mics/condenser/spark.jpg",
+        "asin": "B01MZBLKN5"
+    }
+]
